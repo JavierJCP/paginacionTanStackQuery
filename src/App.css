@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+.table-showColors tr:nth-child(odd) {
+  background-color: royalblue;
+}
+.table-showColors tr:nth-child(even) {
+  background-color: rgb(31, 52, 115);
+}
